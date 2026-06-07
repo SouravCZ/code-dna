@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "data": {
+    "dna_card": {
+      "personality_type": "The Polyglot Architect",
+      "archetype": "Architect",
+      "headline": "A strategic developer who builds elegant systems across multiple languages. Your code is your canvas.",
+      "top_languages_analysis": {
+        "primary": "Python - Your go-to language for elegant problem solving",
+        "insight": "Your language choices reveal a developer who values versatility and pragmatism. You're equally comfortable in frontend and backend worlds."
+      },
+      "commit_style_analysis": {
+        "style_name": "Technical & Descriptive",
+        "rating": 8.5,
+        "description": "Your commits tell a story. Well-structured messages that show intention and context. A developer who respects future maintainers."
+      },
+      "readme_quality": {
+        "score": 8.2,
+        "description": "You believe in documentation. 70% of your repos have thoughtful READMEs. Your projects invite collaboration."
+      },
+      "strengths": [
+        "🎯 Architecture & System Design - You think in systems, not just code. Your projects have a clear direction and scalable foundation.",
+        "🌍 Language Versatility - Mastery across Python, JavaScript, Go, and Rust shows you're adaptable and always learning new paradigms."
+      ],
+      "brutal_truths": [
+        "⚠️ Perfectionism Paradox - Sometimes your pursuit of the 'right' architecture delays shipping. Not every project needs a microservices setup.",
+        "📚 Documentation vs Code Ratio - While your READMEs are great, some complex functions could use inline comments. Future you will thank present you."
+      ],
+      "quirks": [
+        "You have a fondness for naming things well - your variable names read like poetry",
+        "You commit frequently but in thoughtful batches, not random saves",
+        "Your most starred project is your 'learning experiment' from 3 years ago"
+      ],
+      "dev_dna_sequence": "PYTHON-JS-GOLANG-ARCHITECTURE-DOCUMENTATION-COLLAB-LEARNING-ELEGANT-SYSTEMS",
+      "energy_level": "High",
+      "collaboration_score": 8.5,
+      "perfectionism_score": 7.8,
+      "fun_fact": "Based on your commit patterns, you're most productive between 10 PM and 2 AM. You're a night owl developer who ships quality code when the world sleeps. 🦉"
+    },
+    "profile": {
+      "username": "torvalds",
+      "name": "Linus Torvalds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "profile_url": "https://github.com/torvalds",
+      "bio": "Linux creator, maintainer, and occasional troublemaker",
+      "location": "Portland, OR",
+      "public_repos": 189,
+      "followers": 187000,
+      "top_languages": {
+        "C": 45,
+        "Python": 28,
+        "JavaScript": 18,
+        "Go": 12,
+        "Rust": 8
+      }
+    },
+    "scores": {
+      "productivity_score": 9.5,
+      "popularity_score": 9.8,
+      "documentation_score": 8.2,
+      "influence_score": 9.7,
+      "overall_score": 9.3
+    },
+    "ai_provider": "groq",
+    "tokens_used": 0
+  }
+}
